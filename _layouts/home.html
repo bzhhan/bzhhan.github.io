@@ -47,6 +47,9 @@ refactor: true
   {% endfor %}
 {% endif %}
 
+<!-- 在这里添加加粗的大标题 -->
+<h1 class="text-center font-weight-bold my-4">Bangzheng Han</h1>
+
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
     <article class="card-wrapper card">
@@ -84,11 +87,11 @@ refactor: true
 
             <div class="post-meta flex-grow-1 d-flex align-items-end">
               <div class="me-auto">
-                <!-- posted date -->
+                <!-- 发布日期 -->
                 <i class="far fa-calendar fa-fw me-1"></i>
                 {% include datetime.html date=post.date lang=lang %}
 
-                <!-- categories -->
+                <!-- 分类 -->
                 {% if post.categories.size > 0 %}
                   <i class="far fa-folder-open fa-fw me-1"></i>
                   <span class="categories">
