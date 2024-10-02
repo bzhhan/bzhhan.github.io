@@ -47,8 +47,101 @@ refactor: true
   {% endfor %}
 {% endif %}
 
-<!-- 在这里添加加粗的大标题 -->
+<!-- 添加加粗的大标题 -->
 <h1 class="text-center font-weight-bold my-4">Bangzheng Han</h1>
+
+<!-- 添加简历内容 -->
+<section id="cv" class="container my-5">
+  <div class="card">
+    <div class="card-body">
+      <!-- 基本信息 -->
+      <div class="basic-info mb-4">
+        <p><strong>Email:</strong> <a href="mailto:2192314292@stu.xjtu.edu.cn">2192314292@stu.xjtu.edu.cn</a></p>
+        <p><strong>电话:</strong> (+86) 166-4507-3996</p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/!!!" target="_blank">https://www.linkedin.com/in/!!!</a></p>
+      </div>
+
+      <!-- 教育背景 -->
+      <h2><i class="fa fa-graduation-cap"></i> 教育背景</h2>
+      <hr>
+      <div class="education mb-4">
+        <div class="education-item mb-3">
+          <h3><strong>Xi'an Jiaotong University (XJTU)</strong>, 西安, 中国</h3>
+          <p><em>物理学学士，预计2025年8月毕业</em></p>
+          <p>时间: 2021年9月 – 现在</p>
+        </div>
+        <div class="education-item mb-3">
+          <h3><strong>加州大学伯克利分校 (UC Berkeley)</strong>, 伯克利, 加利福尼亚, 美国</h3>
+          <p><em>物理学交换项目</em></p>
+          <p>时间: 2023年9月 – 2024年1月</p>
+        </div>
+        <div class="education-item mb-3">
+          <h3><strong>Xi'an Jiaotong University (XJTU)</strong>, 西安, 中国</h3>
+          <p><em>优秀青年项目，相当于高中教育</em></p>
+          <p>时间: 2019年9月 – 2021年8月</p>
+        </div>
+      </div>
+
+      <!-- 研究经历 -->
+      <h2><i class="fa fa-users"></i> 研究经历</h2>
+      <hr>
+      <div class="research-experience mb-4">
+        <div class="research-item mb-3">
+          <h3><strong>Strong interface-induced spin–orbit interaction in graphene on BiSe2O7</strong>, XJTU</h3>
+          <p><strong>角色:</strong> 独立项目，导师: 王喆教授，与谢海波合作</p>
+          <p>项目旨在将石墨烯堆叠在BiSe2O7上以诱导自旋轨道耦合，受王喆教授在WS2和WSe2上的工作启发。涉及弱反局域效应测量、Shubnikov-de Haas振荡分析以及界面诱导自旋轨道耦合的从头计算。</p>
+          <ul>
+            <li>独立负责器件制造、理论计算、实验设计和数据处理。</li>
+            <li>与研究生谢海波合作进行蚀刻和数据测量。</li>
+            <li>目前正在分析数据，以从正在进行的实验中得出结论。</li>
+          </ul>
+        </div>
+        <div class="research-item mb-3">
+          <h3><strong>Charge Transfer Dynamics in RuCl3/hBN/WSe2 Heterostructures</strong>, UC Berkeley</h3>
+          <p><strong>角色:</strong> 本科研究助理，导师: 王峰教授</p>
+          <p>在Jingxu Xie的指导下，制造了带有顶栅和接触的RuCl3/hBN/WSe2异质结器件，并进行了吸收光谱测量和泵浦-探测测量。</p>
+          <ul>
+            <li>掌握了包括2D材料制备与转移、光刻和金属电极沉积在内的器件制造技术。</li>
+            <li>学习了如何精细调整光学设备以进行光电效应测量。</li>
+            <li>开发了一个用于检测晶圆上薄hBN层的神经网络，准确率达到95%。</li>
+          </ul>
+        </div>
+        <div class="research-item mb-3">
+          <h3><strong>Replication of Propagation Dynamics of Truncated Vector Vortex Beams</strong>, XJTU</h3>
+          <p><strong>角色:</strong> 研究培训，导师: 高宏教授</p>
+          <p>专注于复制论文“Investigation of propagation dynamics of truncated vector vortex beams”的理论计算和模拟，由研究生陈云和徐建义指导。</p>
+          <ul>
+            <li>深入了解傅里叶光学并提升了文献综述技能。</li>
+            <li>由于本科生实验机会有限及同时申请交换项目，停止了进一步的小组工作。</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- 荣誉与奖项 -->
+      <h2><i class="fa fa-heart-o"></i> 荣誉与奖项</h2>
+      <hr>
+      <div class="honors-awards mb-4">
+        <div class="award-item mb-2">
+          <p><em>全国大学生物理竞赛一等奖</em>，中国大学生物理竞赛，2022年10月</p>
+        </div>
+        <div class="award-item mb-2">
+          <p><em>大学三等奖学金</em>，2022年8月</p>
+        </div>
+      </div>
+
+      <!-- 其他信息 -->
+      <h2><i class="fa fa-info"></i> 其他信息</h2>
+      <hr>
+      <div class="miscellaneous">
+        <ul>
+          <li><strong>语言:</strong> 英语 - 流利，普通话 - 母语</li>
+          <li><strong>博客:</strong> !!!</li>
+          <!-- <li><strong>GitHub:</strong> <a href="https://github.com/username" target="_blank">https://github.com/username</a></li> -->
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
@@ -87,7 +180,7 @@ refactor: true
 
             <div class="post-meta flex-grow-1 d-flex align-items-end">
               <div class="me-auto">
-                <!-- 发布日期 -->
+                <!-- 发布时间 -->
                 <i class="far fa-calendar fa-fw me-1"></i>
                 {% include datetime.html date=post.date lang=lang %}
 

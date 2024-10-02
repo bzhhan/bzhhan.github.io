@@ -1,7 +1,7 @@
 ---
 title: Grades During Exchange Program at UC Berkeley
 date: 2021-08-31 08:00:00 +8000
-categories: [XJTU, Grade]
+categories: [Berkeley, Grade]
 tags: [Bzhan]     # TAG 名称应始终小写
 ---
 
