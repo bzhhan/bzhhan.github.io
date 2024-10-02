@@ -1,0 +1,29 @@
+---
+title: Young Gifted Program Grades
+date: 2021-08-31 08:00:00 +8000
+categories: [XJTU, Grade]
+tags: [Bzhan]     # TAG 名称应始终小写
+---
+| Academic Year & Semester | Course Name                                           | Course Category                              | Course Nature | Credits | Total Score | Exam Date | GPA (4.3) | GPA (4.0) | Grade Type         | Exam Type   |
+|-------------------------|-------------------------------------------------------|----------------------------------------------|---------------|---------|-------------|-----------|-----------|-----------|--------------------|-------------|
+| 2020-2021, Fall         | Mathematics I                                         | Mathematics and Basic Science Courses        | Required      | 4       | 100         | 2021/1/12 | 4.3       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | Physics                                               | Public Courses                               | Required      | 4       | 92          | 2021/1/23 | 4         | 4         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | Chinese Language I                                    | Humanities and Social Sciences Basic Courses | Required      | 4       | 88          | 2021/1/16 | 3.7       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | Structure and Properties of Matter – Inorganic         | Public Courses                               | Required      | 4       | 88          | 2021/1/21 | 3.7       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | Biology I                                             | Public Courses                               | Required      | 3       | 93          | 2021/1/14 | 4         | 4         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | The Beauty of Computing                                | Humanities and Social Sciences Basic Courses | Required      | 2       | 99          | 2020/11/22| 4.3       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | Communication and Expression (Youth Program) I         | Humanities and Social Sciences Basic Courses | Required      | 2       | 90          | 2021/1/8  | 4         | 4         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | Reading and Writing (Youth Program) I                   | Humanities and Social Sciences Basic Courses | Required      | 2       | 83          | 2021/1/8  | 3.3       | 3         | Percentage System  | Closed-book |
+| 2020-2021, Fall         | History and Culture                                    | Humanities and Social Sciences Basic Courses | Required      | 2       | 79          | 2021/1/19 | 3         | 3         | Percentage System  | Open-book   |
+| 2020-2021, Fall         | Preparatory Physical Education I                       | Humanities and Social Sciences Basic Courses | Required      | 0.5     | 70          | 2021/1/11 | 2         | 2         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Structure and Properties of Matter – Organic          | Public Courses                               | Required      | 4       | 78          | 2021/5/30 | 3         | 3         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Chinese Language II                                   | Humanities and Social Sciences Basic Courses | Required      | 4       | 72          | 2021/6/22 | 2.3       | 2         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Mathematics II                                        | Mathematics and Basic Science Courses        | Required      | 3       | 95          | 2021/6/13 | 4.3       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Introduction to Fundamentals of Modern Physics        | Public Courses                               | Required      | 3       | 90          | 2021/6/20 | 4         | 4         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Basic Mathematical Laboratory                          | Mathematics and Basic Science Courses        | Required      | 2       | 91          | 2021/6/29 | 4         | 4         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Biology II                                            | Public Courses                               | Required      | 2       | 88          | 2021/6/21 | 3.7       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Communication and Expression (Youth Program) II        | Humanities and Social Sciences Basic Courses | Required      | 2       | 88          | 2021/6/22 | 3.7       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Reading and Writing (Youth Program) II                  | Humanities and Social Sciences Basic Courses | Required      | 2       | 88          | 2021/6/22 | 3.7       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Music                                                 | Humanities and Social Sciences Basic Courses | Required      | 2       | 88          | 2021/6/26 | 3.7       | 4         | Percentage System  | Closed-book |
+| 2020-2021, Spring       | Basic Physics Laboratory (Preparatory)                | Public Courses                               | Required      | 0.5     | 98          | 2021/6/26 | 4.3       | 4         | Grade Level System | Assessment   |
+| 2020-2021, Spring       | Preparatory Physical Education II                      | Humanities and Social Sciences Basic Courses | Required      | 0.5     | 70          | 2021/6/27 | 2         | 2         | Percentage System  | Closed-book |
