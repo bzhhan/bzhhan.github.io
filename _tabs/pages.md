@@ -2,6 +2,9 @@
 title: "Resume/CV"
 layout: page
 permalink: /resume/
+order: 1
+icon: fas fa-download
+
 ---
 
 <!-- 显示您的 CV -->
@@ -16,4 +19,4 @@ permalink: /resume/
 
 
 <!-- 下载按钮 -->
-[点击这里下载我的 CV (PDF)](/assets/home/resume.pdf)
+[Click Here to Download my Resume/CV](/assets/home/resume.pdf)
