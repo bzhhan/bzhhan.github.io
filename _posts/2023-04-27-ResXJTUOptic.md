@@ -7,7 +7,7 @@ tags: [Bzhan]     # TAG 名称应始终小写
 
 ### 1. Introduction
 
-As a third-year physics student at Xi'an Jiaotong University, I had the opportunity to participate in a research project under the supervision of Professor Hong Gao. Our work focused on replicating the theoretical calculations and simulations presented in the paper "[Investigation of Propagation Dynamics of Truncated Vector Vortex Beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-43-11-2579)" by P. Srinivas et al. This blog post summarizes my research experience and the key findings from our simulation study.
+As a second-year physics student at Xi'an Jiaotong University, I had the opportunity to get some research training under the supervision of Professor Hong Gao. Our work focused on replicating the theoretical calculations and simulations presented in the paper "[Investigation of Propagation Dynamics of Truncated Vector Vortex Beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-43-11-2579)" by P. Srinivas et al. This blog post summarizes my research experience and the key findings from our simulation study.
 
 ---
 
